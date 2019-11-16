@@ -1,1 +1,2 @@
 I am in my new file created for rebasing.
+Added some more content in mynewfile.txt
